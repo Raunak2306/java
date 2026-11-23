@@ -9,6 +9,7 @@ leetcode java question pratice
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Raunak2306/java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -16,6 +17,7 @@ leetcode java question pratice
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -42,4 +44,16 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Raunak2306/java/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
