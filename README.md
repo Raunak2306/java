@@ -9,6 +9,7 @@ leetcode java question pratice
 | [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Raunak2306/java/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Raunak2306/java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ leetcode java question pratice
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raunak2306/java/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raunak2306/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
