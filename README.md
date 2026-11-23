@@ -54,6 +54,7 @@ leetcode java question pratice
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Raunak2306/java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -62,6 +63,7 @@ leetcode java question pratice
 | ------- |
 | [0009-palindrome-number](https://github.com/Raunak2306/java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raunak2306/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -89,6 +91,7 @@ leetcode java question pratice
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Raunak2306/java/tree/master/1929-concatenation-of-array) |
@@ -125,4 +128,8 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
