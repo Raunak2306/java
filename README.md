@@ -37,6 +37,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Raunak2306/java/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Raunak2306/java/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
