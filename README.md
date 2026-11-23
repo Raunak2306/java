@@ -7,6 +7,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ leetcode java question pratice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -96,4 +98,8 @@ leetcode java question pratice
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raunak2306/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raunak2306/java/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
