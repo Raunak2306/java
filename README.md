@@ -144,4 +144,8 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raunak2306/java/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Raunak2306/java/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
