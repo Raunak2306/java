@@ -15,6 +15,7 @@ leetcode java question pratice
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raunak2306/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raunak2306/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Raunak2306/java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raunak2306/java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Raunak2306/java/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Raunak2306/java/tree/master/1512-number-of-good-pairs) |
@@ -91,4 +92,5 @@ leetcode java question pratice
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raunak2306/java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Raunak2306/java/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
