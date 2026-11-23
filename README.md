@@ -43,6 +43,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -65,5 +66,10 @@ leetcode java question pratice
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
