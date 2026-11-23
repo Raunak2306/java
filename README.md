@@ -7,6 +7,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,4 +33,8 @@ leetcode java question pratice
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
