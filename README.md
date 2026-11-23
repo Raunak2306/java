@@ -50,6 +50,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -70,6 +71,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Raunak2306/java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Raunak2306/java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
@@ -104,4 +106,20 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
