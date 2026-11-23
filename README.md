@@ -6,6 +6,7 @@ leetcode java question pratice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@ leetcode java question pratice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Raunak2306/java/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Raunak2306/java/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
