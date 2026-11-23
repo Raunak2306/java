@@ -8,6 +8,7 @@ leetcode java question pratice
 | ------- |
 | [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Raunak2306/java/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Raunak2306/java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak2306/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ leetcode java question pratice
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Raunak2306/java/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Raunak2306/java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
