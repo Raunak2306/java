@@ -53,6 +53,7 @@ leetcode java question pratice
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Raunak2306/java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
