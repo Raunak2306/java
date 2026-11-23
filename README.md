@@ -46,6 +46,7 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raunak2306/java/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Raunak2306/java/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Raunak2306/java/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Raunak2306/java/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
@@ -77,6 +78,7 @@ leetcode java question pratice
 | ------- |
 | [0027-remove-element](https://github.com/Raunak2306/java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/Raunak2306/java/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Raunak2306/java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
@@ -132,4 +134,12 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raunak2306/java/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Raunak2306/java/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Raunak2306/java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
