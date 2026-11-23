@@ -36,11 +36,13 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Raunak2306/java/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +60,8 @@ leetcode java question pratice
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
