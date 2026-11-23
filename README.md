@@ -35,6 +35,7 @@ leetcode java question pratice
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ leetcode java question pratice
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
