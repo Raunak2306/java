@@ -13,6 +13,7 @@ leetcode java question pratice
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Raunak2306/java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raunak2306/java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Raunak2306/java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Raunak2306/java/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
