@@ -53,6 +53,7 @@ leetcode java question pratice
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raunak2306/java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raunak2306/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Raunak2306/java/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Raunak2306/java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
