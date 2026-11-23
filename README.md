@@ -13,6 +13,7 @@ leetcode java question pratice
 | [0611-valid-triangle-number](https://github.com/Raunak2306/java/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Raunak2306/java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raunak2306/java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1929-concatenation-of-array](https://github.com/Raunak2306/java/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raunak2306/java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Raunak2306/java/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -68,6 +69,7 @@ leetcode java question pratice
 | ------- |
 | [0258-add-digits](https://github.com/Raunak2306/java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raunak2306/java/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Raunak2306/java/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
